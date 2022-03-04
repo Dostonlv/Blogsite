@@ -8,7 +8,7 @@ ul{
     padding: 0;
 }
 header{
-    min-height: 100vh;
+    min-height: 100%;
     background: url(./na.jpg) no-repeat;
     background-size: cover;
 }
@@ -176,6 +176,7 @@ nav .fa-bars:hover{
 @media screen and (min-width:800px) {
     .menu form{
         display: none;
+
     }
 }
 @media screen and (min-width:400px) {
