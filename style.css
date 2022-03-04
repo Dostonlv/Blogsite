@@ -109,7 +109,8 @@ nav .fa-bars{
     text-align: right;
 }
 nav .fa-bars:hover{
-    color: #e54416;
+    
+    color: #00c5cc;
 }
 .menu{
     background: #111;
