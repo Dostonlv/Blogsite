@@ -17,6 +17,18 @@ header{
     background: url(./na.jpg) no-repeat;
     background-size: cover;
 }
+h1{
+    margin: 0;
+    padding: 250px;
+    text-align: center;
+    color: #28ca30;
+}
+.typed-js{
+    margin: 0;
+    padding: 250px;
+    text-align: center;
+    color: #cac728;
+}
 main{
     padding: 2em;
     background: #111;

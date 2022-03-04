@@ -14,3 +14,9 @@ window.addEventListener('scroll', () => {
         navbar.classList.remove('navbar-active');
     }
 });
+new Typed('.typed-js',{
+    strings : ['Developer','Designer','Bussinesman'],
+    typeSpeed : 40,
+    delaySpeed : 90,
+    loop : true
+  });
