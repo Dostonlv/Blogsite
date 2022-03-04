@@ -115,7 +115,7 @@ nav .fa-bars{
 }
 nav .fa-bars:hover{
     
-    color: #00c5cc;
+    color: #85cc00;
 }
 .menu{
     background: #111;
@@ -194,7 +194,7 @@ ul{
     -webkit-text-fill-color: transparent;
     padding-left: 0.05em;
     padding-right: 0.05em;
-    background-image: linear-gradient(180deg,#2881ca,#00c5cc);
+    background-image: linear-gradient(3600deg,#28ca30,#ccc900);
     position: relative;
     z-index: 1;
 }
@@ -206,6 +206,15 @@ span.sa{
     padding-left: 0.05em;
     padding-right: 0.05em;
     background-image: linear-gradient(90deg,#7928CA,#FF0080);
+    position: relative;
+    z-index: 1;
+}
+.second{
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding-left: 0.05em;
+    padding-right: 0.05em;
+    background-image: linear-gradient(360deg,#28cac2,#ffc400);
     position: relative;
     z-index: 1;
 }
